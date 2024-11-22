@@ -2,6 +2,10 @@
 
 A simple Rock-Paper-Scissors game implemented with HTML, CSS, and JavaScript.
 
+## 🌐 Live Demo
+![Rock-Paper-Scissors Screenshot](rock-paper-scissors.png)
+[View the live project here!](https://laibatariq110.github.io/Rock-Paper-Scissors)
+
 ## Table of Contents
 
 - [Demo](#demo)
@@ -49,6 +53,3 @@ You can play the game by opening the `index.html` file in your browser.
 - CSS
 - JavaScript
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
